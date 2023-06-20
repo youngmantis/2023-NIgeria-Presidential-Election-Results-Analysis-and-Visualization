@@ -9,5 +9,5 @@ To ensure data integrity, the dataset underwent a cleaning process. This involve
 The cleaned dataset was subjected to thorough analysis and visualization to gain insights into the 2023 Nigeria presidential election. Statistical techniques and visual representations were utilized to explore voting patterns, trends, and the performance of the major parties across different states.
 # CONCLUSION
 The analysis of the 2023 Nigeria presidential election data provides valuable insights into the political landscape and voting behavior of the country. However, it is essential to acknowledge the limitations of the dataset, considering the diverse sources and potential discrepancies. Users are advised to exercise caution and conduct further verification before making definitive conclusions based on the findings presented in this report.
-DISCLAIMER
+# DISCLAIMER
 This report is based on the dataset obtained from Vanguard Nigeria and Wikipedia websites. While efforts have been made to ensure accuracy, the author cannot guarantee the absolute reliability of the data. Users should exercise discretion and undertake further research for comprehensive and up-to-date information on the 2023 Nigeria presidential election.
