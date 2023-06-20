@@ -1,4 +1,4 @@
-# ANALYSIS AND VISUALIZATION MADE ON THE 2023 NIGERIA PRESIDENTIAL ELECTION DATA
+# Analysis of the 2023 Nigeria Presidential Election Data
 # INTRODUCTION
 This report presents the analysis conducted on the dataset of the 2023 Nigeria presidential election results. The dataset was compiled from various sources, including Vanguard Nigeria and Wikipedia websites. It is important to note that due to the nature of data compilation, there may be limitations and potential inaccuracies in the dataset.
 DATA COLLECTION/DESCRIPTION
